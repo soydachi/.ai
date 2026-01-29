@@ -25,7 +25,7 @@ python .ai/tools/validate.py
 
 ## Architecture Overview
 
-![Framework Overview](.ai/assets/svg/framework-overview.svg)
+![Framework Overview](/assets/svg/framework-overview.svg)
 
 ## Structure
 
